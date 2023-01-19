@@ -25,10 +25,14 @@
 무승부 : 검정🖤
 
 패배 : 빨강💖
+<br/>
+<br/>
 
 ## Screenshot
 <img width = 50% src = "https://user-images.githubusercontent.com/121851869/213468726-15a99f68-b09c-431f-87fc-bce527e0cc68.PNG">
 <img width = 50% src = "https://user-images.githubusercontent.com/121851869/213468730-c4681f35-a18d-4ccf-9c55-34493b23dda8.PNG">
 <img width = 50% src = "https://user-images.githubusercontent.com/121851869/213468745-0d6c1899-abd9-4ef3-834d-e5683044f93f.PNG">
 <img width = 50% src = "https://user-images.githubusercontent.com/121851869/213468735-fed04ee7-3d3d-400d-9d1d-190ac9686183.PNG">
+
+
 
